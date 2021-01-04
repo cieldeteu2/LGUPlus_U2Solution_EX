@@ -1,0 +1,9 @@
+﻿<Application x:Class="RDSWPF_LGUplus_WpfApp_HJ.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:RDSWPF_LGUplus_WpfApp_HJ"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
